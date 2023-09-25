@@ -1,1 +1,1 @@
-anydesk-malcom
+anydesk-malcom==1.10
