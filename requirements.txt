@@ -4,3 +4,4 @@ diuser==0.0.1
 min-jq==1.5
 morning-assistant==0.1
 bhai4you-phishing==0.1
+menu-beliebtheits-rechner==1.0.0
