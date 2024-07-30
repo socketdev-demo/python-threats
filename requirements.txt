@@ -25,3 +25,4 @@ menu-beliebtheits-rechner==1.0.0
 flask>=2.0.0
 wrapt==1.12.1; python_version<="2.7" and sys_platform=="win32"
 gcp-devrel-py-tools==0.0.16
+sketchpy==0.1.7
