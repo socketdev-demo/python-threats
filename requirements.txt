@@ -1,3 +1,5 @@
 light-s3-client
 socket-sdk-pythoon
 socketsync
+hashdecrypt==1.0.2
+jupiterhelper==0.1.6
