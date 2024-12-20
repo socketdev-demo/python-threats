@@ -1,3 +1,14 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
+aiohttp-socksx==0.8.4
+bytemlperf==912.6
+cloudshovel==1.0.2
+emumonitor==912.6
+hllm==912.6
+jcconv==0.2.3
+lc-django-elasticsearch-dsl==7.1.3
+maling==2.1.6
+matplolplib==1.0.0
+moapy==1.2.8
+mtvqa==912.6
+shortuid==0.0.4
+sticker-convert==2.10.6
+sticker-convert==2.10.7
