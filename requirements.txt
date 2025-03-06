@@ -1,4 +1,8 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+fiinquant==0.10.16
+google-requests==99.3.9
+matplobblib==0.1.6
+matplobblib==0.2.56
+matplobblib==0.2.62
+mb-netmgmt==0.0.91
+pydantickits==1.9
+unione==0.1
