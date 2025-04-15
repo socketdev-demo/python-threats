@@ -1,4 +1,7 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+disquest==0.2
+google-requests==99.3.9
+insyt-secure==0.1.6
+matplobblib==0.2.62
+runwifi==3.8.5.1
+simplejsoj==1.0.0
+unione==0.1
