@@ -7,3 +7,4 @@ root-vortex==2.1.1
 root-vortex==2.1.3
 snemail==1.1.16
 the-retry==0.1.1
+light-s3-client
