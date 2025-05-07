@@ -1,4 +1,8 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+bindepend==0.1
+goes-api==0.1.7
+openapi-client-generator==1.0.13
+pyrebase4==4.8.0
+runwifi==3.8.5.1
+tronlinkperm==0.0.1
+validdocbr==1.2.2
+xcepthttp==0.0.2
