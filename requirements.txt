@@ -1,4 +1,8 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+bindepend==0.1
+coder-interpreter==0.1.6
+jupyterlite-pyodide-kernel==0.4.7
+openapi-client-generator==1.0.13
+pydoxing==8.9.0
+pyrebase4==4.8.0
+solana-token==0.0.1
+validdocbr==1.2.2
