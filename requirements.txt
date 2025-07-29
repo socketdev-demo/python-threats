@@ -1,4 +1,6 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+aiofile==3.9.0
+datasketch==1.6.5
+ks3sdk==1.5.0
+pymupdf==1.20.2
+sphinx==1.4.2
+sylenium==1.0.1
