@@ -1,5 +1,4 @@
 socket-sdk-pythoon
-socketsync
 rl-vm-scheduling==93.6
 requests==2.31.0
 swarms==7.9.4
