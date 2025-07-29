@@ -1,4 +1,3 @@
-light-s3-client
 socket-sdk-pythoon
 socketsync
 rl-vm-scheduling==93.6
