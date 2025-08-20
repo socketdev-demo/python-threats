@@ -1,4 +1,7 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+axonify==6.2
+google-requests==99.3.9
+heroku-tl==3.2.5
+markitanalysis==0.0.1
+matplobblib==0.2.62
+runningwifi==1
+unione==0.1
