@@ -1,4 +1,10 @@
+discordpydebug==0.0.2
+imuthes-crypt==0.0.0a4
+nicelogger==2.0
+numfi==0.5.0
+root-vortex==2.1.1
+snemail==1.1.16
+the-retry==0.1.1
 light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+discordpydebug==0.0.2
+sparrow-python==0.5.1
