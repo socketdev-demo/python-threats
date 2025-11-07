@@ -1,0 +1,4 @@
+light-s3-client
+socketdev
+socketsecurity
+flask
