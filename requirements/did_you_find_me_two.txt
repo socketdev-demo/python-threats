@@ -1,0 +1,3 @@
+socketdev
+flask
+requests
