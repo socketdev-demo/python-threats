@@ -1,4 +1,6 @@
-light-s3-client
-socket-sdk-pythoon
-socketsync
-rl-vm-scheduling==93.6
+apt-toolkit==3.3.2
+jedis==0.0.2
+jedis==0.0.4
+jedis==0.0.4.2
+jedis==0.0.4.3
+jedis==0.1.0
